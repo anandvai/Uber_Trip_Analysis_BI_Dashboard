@@ -1,5 +1,3 @@
-# Uber_Trip_Analysis_BI_Dashboard
-
 # Uber Trip Analysis - Power BI Dashboard
 
 ## Overview
