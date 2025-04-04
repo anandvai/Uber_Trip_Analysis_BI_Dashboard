@@ -3,6 +3,14 @@
 ## Overview
 
 The Uber Trip Analysis Dashboard is designed to provide in-depth insights into Uber trip data using Power BI. This project leverages a dataset containing 100,000+ rows of trip details and location information to help stakeholders understand trends in booking, revenue, trip efficiency, and demand distribution.
+##Over Analysis
+![Screenshot 2025-04-04 125718](https://github.com/user-attachments/assets/61b8546d-ab94-43c4-ad76-731ef20bf004)
+
+##Time Analysis
+![Screenshot 2025-04-04 125751](https://github.com/user-attachments/assets/a38b44bd-d7f8-4a22-93b6-c25481b77636)
+
+##Details
+![Screenshot 2025-04-04 125830](https://github.com/user-attachments/assets/28fbd8b9-44fb-4bea-a4eb-09651cd0b05f)
 
 ## Dataset Information
 
